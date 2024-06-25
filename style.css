@@ -1,0 +1,95 @@
+body{
+  background-color:#E6A4B4;
+  text-align: center;
+}
+
+h1{
+  font-size: 3.5rem;
+  font-family: monospace;
+  color:whitesmoke;
+}
+
+#number1{
+  font-style: italic;
+  border: 10px;
+  background-color: coral;
+  border-radius: 10px;
+  font-style: italic;
+}
+
+#heading2{
+  color: whitesmoke;
+  font-weight: 400;
+  font-size: 2rem;
+  font-family: monospace;
+}
+
+#guessField{
+  border: 5px solid white;
+  border-radius: 10px;
+  color: #3C3633;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#heading3{
+  color: #EEEDEB;
+  font-weight: 900;
+  font-size: 1.5rem;
+  font-family: monospace;
+  font-style: italic;
+}
+
+#guessBtn{
+  font-size: 1.5em;
+  color: whitesmoke;
+  cursor: pointer;
+  border-radius: 10px ;
+  border: none;
+  background-color: coral;
+
+}
+
+#giveUpBtn{
+  font-size: 1.5em;
+  color: whitesmoke;
+  cursor: pointer;
+  border-radius: 10px ;
+  border: none;
+  background-color: coral;
+
+}
+
+#playAgainBtn{
+  font-size: 1.5em;
+  color: whitesmoke;
+  cursor: pointer;
+  border-radius: 10px ;
+  border: none;
+  background-color: coral;
+}
+
+#btn-p{
+  font-size: 1.5em;
+  color: #944E63;
+  cursor: pointer;
+  font-weight: 900;
+  border-radius: 10px ;
+  border: none;
+  background-color:#F5EEE6;
+}
+
+footer {
+  font-weight: 500;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 5px;
+  background-color: coral;
+  color: azure;
+  position: fixed;
+  bottom: 0;
+  border-radius: 20px;
+  left: 0;
+  height: 50px;
+  width: 100%;
+}
